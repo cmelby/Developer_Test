@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "NewsGothicBT-Bold";
+    src: url("fonts/NewsGothicBT-Bold.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-BoldCondensed";
+    src: url("fonts/NewsGothicBT-BoldCondensed.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-BoldCondItalic";
+    src: url("fonts/NewsGothicBT-BoldCondItalic.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-BoldItalic";
+    src: url("fonts/NewsGothicBT-BoldItalic.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-Italic";
+    src: url("fonts/NewsGothicBT-Italic.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-ItalicCondensed";
+    src: url("fonts/NewsGothicBT-ItalicCondensed.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-Roman";
+    src: url("fonts/NewsGothicBT-Roman.ttf") format('truetype');
+}
+@font-face {
+    font-family: "NewsGothicBT-RomanCondensed";
+    src: url("fonts/NewsGothicBT-RomanCondensed.ttf") format('truetype');
+}
